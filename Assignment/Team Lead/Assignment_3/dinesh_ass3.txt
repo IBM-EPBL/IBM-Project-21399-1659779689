@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Que_Two</title>
+</head>
+<body>
+	<center>
+	<h1>Image 1</h1>
+	<img src="https://deendeepak.s3.jp-tok.cloud-object-storage.appdomain.cloud/6e738975-9814-41b5-bd29-2ef047208729.jpg" width="50%" height="50%">
+	<h1>Image 2</h1>
+	<img src="https://deendeepak.s3.jp-tok.cloud-object-storage.appdomain.cloud/Naruto-Wallpaper.jpg" width="50%" height="50%">
+	<h1>Image 3</h1>
+	<img src="https://deendeepak.s3.jp-tok.cloud-object-storage.appdomain.cloud/b98400eea2b884c8950c77d9072c6256.jpg" width="50%" height="50%">
+	<h1>Image 4</h1>
+	<img src="https://deendeepak.s3.jp-tok.cloud-object-storage.appdomain.cloud/download.jfif" width="50%" height="50%">
+	<h1>Image 5</h1>
+	<img src="https://deendeepak.s3.jp-tok.cloud-object-storage.appdomain.cloud/f36f4dea94091797c0f957fb55a5d207.jpg" width="50%" height="50%">
+	</center>
+</body>
+</html>
